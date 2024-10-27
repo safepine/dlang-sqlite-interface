@@ -1,0 +1,5 @@
+app
+app.o
+sqlite3.a
+sqlite3.o
+test.db
